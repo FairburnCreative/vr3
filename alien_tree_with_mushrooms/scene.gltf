@@ -1,0 +1,439 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 26664,
+      "max": [
+        218.59884643554688,
+        638.4329223632813,
+        235.55531311035156
+      ],
+      "min": [
+        -240.5875701904297,
+        -1.7130590677261353,
+        -137.50189208984375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 319968,
+      "componentType": 5126,
+      "count": 26664,
+      "max": [
+        0.9999302625656128,
+        0.9996353387832642,
+        0.9997726678848267
+      ],
+      "min": [
+        -0.9999210834503174,
+        -0.9999836683273315,
+        -0.9999210834503174
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 26664,
+      "max": [
+        0.47497403621673584,
+        0.9866551756858826
+      ],
+      "min": [
+        0.021649455651640892,
+        0.5445698499679565
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 132192,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 639936,
+      "componentType": 5126,
+      "count": 3526,
+      "max": [
+        241.8201446533203,
+        699.9158325195313,
+        284.8981628417969
+      ],
+      "min": [
+        -229.6234130859375,
+        -0.27866363525390625,
+        -133.4001007080078
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 682248,
+      "componentType": 5126,
+      "count": 3526,
+      "max": [
+        0.999049723148346,
+        0.9970080256462097,
+        0.9998980760574341
+      ],
+      "min": [
+        -0.9992872476577759,
+        -0.9994984865188599,
+        -0.9998703002929688
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 213312,
+      "componentType": 5126,
+      "count": 3526,
+      "max": [
+        0.9671342372894287,
+        0.9560215473175049
+      ],
+      "min": [
+        0.027023673057556152,
+        0.06039769947528839
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 528768,
+      "componentType": 5125,
+      "count": 16920,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 724560,
+      "componentType": 5126,
+      "count": 17344,
+      "max": [
+        248.6702423095703,
+        715.411865234375,
+        296.6026916503906
+      ],
+      "min": [
+        -258.0319519042969,
+        -3.636817216873169,
+        -147.3852996826172
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 932688,
+      "componentType": 5126,
+      "count": 17344,
+      "max": [
+        0.9999218583106995,
+        0.9997488260269165,
+        0.9993234276771545
+      ],
+      "min": [
+        -0.9970794320106506,
+        -0.9997683167457581,
+        -0.9984496831893921
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 241520,
+      "componentType": 5126,
+      "count": 17344,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 596448,
+      "componentType": 5125,
+      "count": 26016,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "bl_odymary (https://sketchfab.com/bl_odymary)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/alien-tree-with-mushrooms-a4f3d61965af44b9a0a88325ac2ec416",
+      "title": "Alien Tree with Mushrooms"
+    },
+    "generator": "Sketchfab-15.10.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 700512,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 380272,
+      "byteOffset": 700512,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1140816,
+      "byteOffset": 1080784,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2221600,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_emissive_strength",
+    "KHR_materials_specular"
+  ],
+  "images": [
+    {
+      "uri": "textures/Shrooms_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        0.08503410000000004,
+        0.0
+      ],
+      "extensions": {
+        "KHR_materials_emissive_strength": {
+          "emissiveStrength": 1.448170731707317
+        }
+      },
+      "name": "Shrooms",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.16920731707317074
+        }
+      },
+      "name": "Tree",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        0.06518791730249957,
+        0.514844640693945
+      ],
+      "extensions": {
+        "KHR_materials_emissive_strength": {
+          "emissiveStrength": 8.4
+        },
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.12042682926829268
+        }
+      },
+      "name": "Leaves",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8906202579580609
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "TreeShrooms_Shrooms_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TreeShrooms_Tree_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TreeShrooms_Leaves_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "fe6906ac8ae14658815abb3700101f27.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "name": "TreeShrooms"
+    },
+    {
+      "mesh": 0,
+      "name": "TreeShrooms_Shrooms_0"
+    },
+    {
+      "mesh": 1,
+      "name": "TreeShrooms_Tree_0"
+    },
+    {
+      "mesh": 2,
+      "name": "TreeShrooms_Leaves_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

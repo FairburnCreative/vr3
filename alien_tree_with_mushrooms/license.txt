@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alien Tree with Mushrooms
+* source:	https://sketchfab.com/3d-models/alien-tree-with-mushrooms-a4f3d61965af44b9a0a88325ac2ec416
+* author:	bl_odymary (https://sketchfab.com/bl_odymary)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alien Tree with Mushrooms" (https://sketchfab.com/3d-models/alien-tree-with-mushrooms-a4f3d61965af44b9a0a88325ac2ec416) by bl_odymary (https://sketchfab.com/bl_odymary) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
