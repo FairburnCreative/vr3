@@ -1,0 +1,11 @@
+Model Information:
+* title:	Autumn footpath in a deciduous forest
+* source:	https://sketchfab.com/3d-models/autumn-footpath-in-a-deciduous-forest-16d41e32915640318e918c93b53d3de2
+* author:	cadloop (https://sketchfab.com/cadloop)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Autumn footpath in a deciduous forest" (https://sketchfab.com/3d-models/autumn-footpath-in-a-deciduous-forest-16d41e32915640318e918c93b53d3de2) by cadloop (https://sketchfab.com/cadloop) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
